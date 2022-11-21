@@ -49,7 +49,7 @@ cd /apps
 git clone https://github.com/joel35/modern-apis-with-fastapi.git app_repo
 
 # Setup the web app:
-cd /apps/app_repo/ch08-deployment
+cd /apps/app_repo/my_ch08
 pip install -r requirements.txt
 
 # Copy and enable the daemon
